@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Rus: #KtoKuda" tvg-logo="http://169.150.236.46/images/t6s7xn0v30CDcGEVlgq8LjGWmhLM2G8W4xaplIIbHMyTMSse15N5q2IVCi22U0ch.png" group-title="RUS | Russia",Rus: #KtoKuda
 http://xline.live:2052/555555/666666/317772
 #EXTINF:-1 tvg-id="" tvg-name="Rus: .black" tvg-logo="http://169.150.236.46/images/t6s7xn0v30CDcGEVlgq8Lip6gR21B_uc1Sd6cXQf2K--XtuXOx0Xoc4tu-saSAfR.png" group-title="RUS | Russia",Rus: .black
@@ -723,4 +724,5 @@ http://xline.live:2052/555555/666666/318132
 #EXTINF:-1 tvg-id="" tvg-name="RUS: NTV Football 2" tvg-logo="http://169.150.236.46/images/t6s7xn0v30CDcGEVlgq8Lu_7QPA_bZQgWVhB6fePawX3IRQ9xwcEbBrqC2TNlzXX.png" group-title="RUS | Russia",RUS: NTV Football 2
 http://xline.live:2052/555555/666666/318133
 #EXTINF:-1 tvg-id="" tvg-name="RUS: ZAGORODNOJA JIZN" tvg-logo="http://169.150.236.46/images/t6s7xn0v30CDcGEVlgq8Ln4Mokg8lDyJ5ZYU5tQymhbgqNpdIxGH-KTNNDChaFpy.png" group-title="RUS | Russia",RUS: ZAGORODNOJA JIZN
+
 http://xline.live:2052/555555/666666/318134
